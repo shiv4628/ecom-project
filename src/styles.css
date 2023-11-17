@@ -2,3 +2,8 @@
 body{
     font-family: sans-serif;
 }
+
+.container{
+    margin-right: 5%;
+    margin-left: 5%;
+}
